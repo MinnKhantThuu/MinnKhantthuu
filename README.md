@@ -30,7 +30,7 @@ class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'Dart'];
   databases  = ['Hive', 'MongoDB', 'Sqlflite'];
   frameworks = ['NodeJS', 'Flutter', 'Express'];
-}
+}```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
