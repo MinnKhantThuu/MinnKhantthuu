@@ -14,3 +14,19 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnkhantthuu&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minnkhantthuu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+```dart
+import 'package:flutter/developer.dart';
+
+class Bio extends FlutterDeveloper {
+  name     = 'Minn Khant Thu';
+  title    = 'Flutter Engineer';
+  company  = 'LASTOENJOY | FULLTIME';
+  location = 'Mandalay, Myanmar';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'Dart'];
+  databases  = ['Hive', 'MongoDB', 'Sqlflite'];
+  frameworks = ['NodeJS', 'Flutter', 'Express'];
+}
