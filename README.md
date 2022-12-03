@@ -1,5 +1,11 @@
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
+
 <h1 align="center">Hi 👋, I'm Minn Khant Thu</h1>
 <h3 align="center">Passionate Flutter Developer</h3>
+> Flutter Developer at [LASTOENJOY](http://www.lastoenjoy.org)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
