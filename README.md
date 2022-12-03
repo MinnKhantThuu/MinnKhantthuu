@@ -4,7 +4,6 @@
 </p>
 
 <h1 align="center">Mingalar par 🙏, I'm Minn Khant Thu</h1>
-<h2 align="center">You can call me Minn Khant</h2>
 <h3 align="center">Passionate Flutter Developer</h3>
 > Flutter Developer at [LASTOENJOY](http://www.lastoenjoy.org)
 
