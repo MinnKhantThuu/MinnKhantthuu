@@ -3,9 +3,18 @@
  <h2 align="center">Profile</h2>
 </p>
 
-<h1 align="center">Hi 👋, I'm Minn Khant Thu</h1>
+<h1 align="center">Mingalar par 🙏, I'm Minn Khant Thu</h1>
+<h2 align="center">You can call me Minn Khant</h2>
 <h3 align="center">Passionate Flutter Developer</h3>
 > Flutter Developer at [LASTOENJOY](http://www.lastoenjoy.org)
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+[![](https://img.shields.io/badge/LinkedIn-minnkhantthu-blue)](https://www.linkedin.com/in/minn-khant-thu-787221252/)
+[![](https://img.shields.io/badge/Gmail-minnkhantthu.ucsy@gmail.com-red)](mailto:minnkhantthu.ucsy@gmail.com)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
