@@ -12,26 +12,6 @@
 [![](https://img.shields.io/badge/LinkedIn-minnkhantthu-blue)](https://www.linkedin.com/in/minn-khant-thu-787221252/)
 [![](https://img.shields.io/badge/Gmail-minnkhantthu.ucsy@gmail.com-red)](mailto:minnkhantthu.ucsy@gmail.com)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-
-```dart
-import 'package:flutter/developer.dart';
-
-class Bio extends FlutterDeveloper {
-  name     = 'Minn Khant Thu';
-  title    = 'Flutter Engineer';
-  company  = 'LASTOENJOY | FULLTIME';
-  location = 'Mandalay, Myanmar';
-}
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Dart'];
-  databases  = ['Hive', 'MongoDB', 'Sqlflite'];
-  frameworks = ['NodeJS', 'Flutter', 'Express'];
-}```
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/minnkhantthu27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minnkhantthu27" height="30" width="40" /></a>
@@ -45,3 +25,22 @@ class Skills extends SoftwareDeveloper {
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnkhantthuu&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minnkhantthuu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+
+```dart
+import 'package:flutter/developer.dart';
+
+class Bio extends FlutterDeveloper {
+  name     = 'Minn Khant Thu';
+  title    = 'Flutter Developer';
+  company  = 'LASTOENJOY | Fulltime';
+  location = 'Mandalay, Myanmar';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'Dart'];
+  databases  = ['Hive', 'MongoDB', 'Sqlflite'];
+  frameworks = ['NodeJS', 'Flutter', 'Express'];
+}
