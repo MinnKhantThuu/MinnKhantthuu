@@ -1,46 +1,37 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+  <img src="./assets/profile-banner.svg" alt="Minn Khant Thu — Flutter and Node.js Developer" width="100%" />
 </p>
 
-<h1 align="center">Mingalar par 🙏, I'm Minn Khant Thu</h1>
-<h3 align="center">Passionate Flutter Developer</h3>
-> Flutter Developer at [LASTOENJOY](http://www.lastoenjoy.org)
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-[![](https://img.shields.io/badge/LinkedIn-minnkhantthu-blue)](https://www.linkedin.com/in/minn-khant-thu-787221252/)
-[![](https://img.shields.io/badge/Gmail-minnkhantthu.ucsy@gmail.com-red)](mailto:minnkhantthu.ucsy@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/minnkhantthu27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minnkhantthu27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/minn-khant-thu-787221252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minn-khant-thu-787221252" height="30" width="40" /></a>
-<a href="https://fb.com/100067554909484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100067554909484" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/minn-khant-thu-787221252/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/minnkhantthu27"><img src="https://img.shields.io/badge/X-Follow-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:minkhantthu1@ucsy.edu.mm"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Hello, I'm Minn 👋
 
-![MinnKhantThu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinnKhantThuu&show_icons=true&theme=cobalt)
+I'm a **Flutter & Node.js Developer** at [Joy Groups International](https://github.com/Joy-Groups-International), based in Bangkok, Thailand.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinnKhantThuu&layout=compact)](https://github.com/MinnKhantThuu/github-readme-stats)
+I enjoy turning product ideas into polished mobile experiences and dependable backend services—from clean Flutter interfaces to practical APIs and data flows.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+- 📱 Building cross-platform mobile apps with **Flutter & Dart**
+- ⚙️ Developing backend services with **Node.js, TypeScript & Express**
+- 🧩 Interested in maintainable architecture, smooth UX, and reliable delivery
+- 🤝 Open to connecting with developers and product builders
 
+## Tech I work with
 
-```dart
-import 'package:flutter/developer.dart';
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-class Bio extends FlutterDeveloper {
-  name     = 'Minn Khant Thu';
-  title    = 'Flutter Developer';
-  company  = 'LASTOENJOY | Fulltime';
-  location = 'Mandalay, Myanmar';
-}
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Dart'];
-  databases  = ['Hive', 'MongoDB', 'Sqlflite'];
-  frameworks = ['NodeJS', 'Flutter', 'Express'];
-}
+<p align="center">
+  <sub>Thanks for stopping by. Have a look around, or reach out and say hello.</sub>
+</p>
