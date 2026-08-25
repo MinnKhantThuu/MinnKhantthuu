@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="92" viewBox="0 0 1000 92" role="img" aria-labelledby="title desc">
+  <title id="title">Minn Khant Thu's engineering identity</title>
+  <desc id="desc">Animated lines describing how Minn builds both product surfaces and the systems behind them.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8" />
+      <stop offset="0.5" stop-color="#818CF8" />
+      <stop offset="1" stop-color="#C084FC" />
+    </linearGradient>
+  </defs>
+
+  <g fill="url(#accent)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" text-anchor="middle">
+    <text x="500" y="48" opacity="1">
+      I build the product surface — and the systems behind it.
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="1;1;0;0;0;0;1" keyTimes="0;0.27;0.32;0.62;0.67;0.96;1" />
+    </text>
+    <text x="500" y="48" opacity="0">
+      Flutter on the front. TypeScript on the back.
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0;0" keyTimes="0;0.29;0.34;0.61;0.66;0.96;1" />
+    </text>
+    <text x="500" y="48" opacity="0">
+      From the first tap to the final response.
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;0;0;1;1;0" keyTimes="0;0.29;0.34;0.64;0.69;0.96;1" />
+    </text>
+  </g>
+
+  <rect x="360" y="72" width="280" height="3" rx="1.5" fill="url(#accent)" opacity="0.85">
+    <animate attributeName="x" dur="4s" repeatCount="indefinite" values="420;300;420" />
+    <animate attributeName="width" dur="4s" repeatCount="indefinite" values="160;400;160" />
+  </rect>
+</svg>
