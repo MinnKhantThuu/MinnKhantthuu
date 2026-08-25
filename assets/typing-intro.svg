@@ -15,11 +15,11 @@
       <animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="1;1;0;0;0;0;1" keyTimes="0;0.27;0.32;0.62;0.67;0.96;1" />
     </text>
     <text x="500" y="48" opacity="0">
-      Flutter on the front. TypeScript on the back.
+      Flutter in the app. React on the web. Node.js behind both.
       <animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0;0" keyTimes="0;0.29;0.34;0.61;0.66;0.96;1" />
     </text>
     <text x="500" y="48" opacity="0">
-      From the first tap to the final response.
+      From the first tap to the production deploy.
       <animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;0;0;1;1;0" keyTimes="0;0.29;0.34;0.64;0.69;0.96;1" />
     </text>
   </g>

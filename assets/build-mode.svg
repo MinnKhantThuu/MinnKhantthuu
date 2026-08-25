@@ -35,11 +35,11 @@
 
       <text x="76" y="128" fill="#22D3EE" font-size="18">$</text>
       <text x="100" y="128" fill="#E2E8F0" font-size="18">whoami</text>
-      <text x="100" y="158" fill="#94A3B8" font-size="17">Flutter + Node.js developer</text>
+      <text x="100" y="158" fill="#94A3B8" font-size="17">Senior Flutter developer • mobile + full stack</text>
 
       <text x="76" y="203" fill="#22D3EE" font-size="18">$</text>
       <text x="100" y="203" fill="#E2E8F0" font-size="18">focus --now</text>
-      <text x="100" y="233" fill="#94A3B8" font-size="17">mobile experiences • APIs • product delivery</text>
+      <text x="100" y="233" fill="#94A3B8" font-size="17">mobile • web • APIs • streaming systems</text>
 
       <text x="76" y="278" fill="#22D3EE" font-size="18">$</text>
       <text x="100" y="278" fill="#E2E8F0" font-size="18">principles</text>
@@ -59,13 +59,13 @@
       <circle cx="1108" cy="125" r="10" fill="#38BDF8" opacity="0.8" />
 
       <rect x="780" y="170" width="360" height="66" rx="11" fill="#0F2942" stroke="#818CF8" stroke-opacity="0.35" />
-      <text x="802" y="194" fill="#64748B" font-size="13" letter-spacing="2">BACKEND</text>
-      <text x="802" y="220" fill="#E2E8F0" font-size="18" font-weight="700">Node.js + TypeScript</text>
+      <text x="802" y="194" fill="#64748B" font-size="13" letter-spacing="2">WEB + API</text>
+      <text x="802" y="220" fill="#E2E8F0" font-size="18" font-weight="700">React + Node.js</text>
       <circle cx="1108" cy="203" r="10" fill="#818CF8" opacity="0.85" />
 
       <rect x="780" y="248" width="360" height="66" rx="11" fill="#0F2942" stroke="#C084FC" stroke-opacity="0.35" />
-      <text x="802" y="272" fill="#64748B" font-size="13" letter-spacing="2">BASE</text>
-      <text x="802" y="298" fill="#E2E8F0" font-size="18" font-weight="700">Bangkok, Thailand</text>
+      <text x="802" y="272" fill="#64748B" font-size="13" letter-spacing="2">DELIVERY</text>
+      <text x="802" y="298" fill="#E2E8F0" font-size="18" font-weight="700">Railway + CI/CD</text>
       <circle cx="1108" cy="281" r="10" fill="#C084FC" opacity="0.85" />
     </g>
   </g>
