@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/minn-khant-thu-787221252/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Minn on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/minn-khant-thu/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Minn on LinkedIn" /></a>
   <a href="https://x.com/minnkhantthu27"><img src="https://img.shields.io/badge/X-Follow-111111?style=flat-square&logo=x&logoColor=white" alt="Follow Minn on X" /></a>
   <a href="mailto:minkhantthu1@ucsy.edu.mm"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Minn" /></a>
 </p>
@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/minn-khant-thu-787221252/"><img src="https://img.shields.io/badge/Start_a_conversation-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Start a conversation on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/minn-khant-thu/"><img src="https://img.shields.io/badge/Start_a_conversation-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Start a conversation on LinkedIn" /></a>
   <a href="mailto:minkhantthu1@ucsy.edu.mm"><img src="https://img.shields.io/badge/Send_an_email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Minn an email" /></a>
 </p>
 
