@@ -1,132 +1,118 @@
-<p align="center">
-  <img src="./assets/hero-workspace-v2.jpg" alt="A cinematic mobile-to-cloud developer workspace" width="100%" />
-</p>
-
-<h1 align="center">MINN KHANT THU</h1>
+<h1 align="center">Minn Khant Thu</h1>
 
 <p align="center">
-  <img src="./assets/typing-intro.svg" alt="I build the product surface and the systems behind it" width="900" />
+  <b>Senior Mobile Engineer · Flutter, streaming &amp; hardware-connected apps</b><br />
+  Bangkok, Thailand · Senior Flutter Developer at <a href="https://github.com/Joy-Groups-International">Joy Groups International</a>
 </p>
 
 <p align="center">
-  <b>Senior Flutter Developer &amp; Mobile App Engineer</b> · Bangkok, Thailand · <a href="https://github.com/Joy-Groups-International">Joy Groups International</a><br />
-  <sub>Flutter · React · Node.js · BLE/RFID · CI/CD</sub>
+  <a href="https://minnkhantthu.up.railway.app/"><b>Portfolio &amp; case studies ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://minnkhantthu.up.railway.app/cv/Minn_Khant_Thu_CV_NZ_Senior_Mobile_Engineer_Public.pdf">Public CV (PDF)</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/minn-khant-thu/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:minnkhantthu.ucsy@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <a href="https://download.perseus-tv.app"><img src="https://img.shields.io/badge/Featured_work-download.perseus--tv.app-7C3AED?style=flat-square&logo=railway&logoColor=white" alt="Open the PerseusTV+ download site built by Minn" /></a>
-  <a href="https://www.linkedin.com/in/minn-khant-thu/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Minn on LinkedIn" /></a>
-  <a href="https://x.com/minnkhantthu27"><img src="https://img.shields.io/badge/X-Follow-111111?style=flat-square&logo=x&logoColor=white" alt="Follow Minn on X" /></a>
-  <a href="mailto:minkhantthu1@ucsy.edu.mm"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Minn" /></a>
+  <img src="./assets/hero-workspace-v2.jpg" alt="A mobile-to-cloud developer workspace" width="100%" />
 </p>
 
-## 🧬 Engineering DNA
+## Mobile first. The whole product in view.
 
-> From the **first tap** to the **final response**, I work across UI, state, APIs, data contracts, and delivery.
+I build Flutter applications for **subscription video streaming and hardware-connected workflows**, with React interfaces and Node.js services behind them. My work spans the first interaction, application state, API integration, media delivery, and Android/iOS release preparation.
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>📱 Mobile craft</h3>
-      <p>Flutter experiences that feel fast, clear, and intentional—not just screens that happen to work.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>⚙️ Backend systems</h3>
-      <p>Practical APIs, clean data flows, and dependable services built with Node.js and TypeScript.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🚀 Product delivery</h3>
-      <p>Turning ambiguous ideas into maintainable features that are ready to ship and easy to evolve.</p>
-    </td>
-  </tr>
-</table>
+Based in **Bangkok**, with **New Zealand as my primary relocation focus**. I'm also open to opportunities in Singapore, Australia, and Canada, and local or remote roles in Thailand.
 
-## 🧭 Professional journey
+## Selected freelance work
 
-> Building and shipping real products since **2021** across mobile, backend, web, and release delivery.
+### PerseusTV+ — a streaming ecosystem
 
-| When | Role | Where |
-| :-- | :-- | :-- |
-| `APR 2024 → NOW` | **Senior Flutter Developer** | [Joy Groups International](https://github.com/Joy-Groups-International) · Bangkok / Remote |
-| `DEC 2021 → NOW` | **Flutter & Node.js Developer** | Freelance · Remote |
-| `NOV 2022 → APR 2024` | **Flutter Developer** | Lastoenjoy Co., Ltd. · Mandalay / Remote |
+My work spans the Flutter viewer app, React creator and operations dashboards, Node.js services, HLS delivery, and the public download website.
 
-## 📡 Selected production work
+- **Playback:** bounded startup retries, player recovery, and server-authorised playback sessions.
+- **Watch progress:** local resume state and ordered cloud synchronisation to keep older updates from overwriting newer progress.
+- **Publishing:** multipart uploads with distinct transfer, processing, readiness, failure, and cancellation states.
+- **Web delivery:** I also built [download.perseus-tv.app](https://download.perseus-tv.app) with React, Vite, Tailwind CSS, an Express proxy, and Railway hosting.
 
-<table>
-  <tr>
-    <td width="58%">
-      <h3>🎬 PerseusTV+ · one product, multiple surfaces</h3>
-      <p>My work across the ecosystem spans the <b>Flutter streaming client</b>, <b>React + TypeScript administration tools</b>, <b>Node.js services</b>, HLS/media delivery, and Railway deployment and storage integrations.</p>
-    </td>
-    <td width="42%">
-      <h3>🌐 <a href="https://download.perseus-tv.app">download.perseus-tv.app ↗</a></h3>
-      <p>I built the public PerseusTV+ download experience with <b>React, Vite, Tailwind CSS, Framer Motion</b>, an Express proxy layer, and Railway deployment.</p>
-      <p><a href="https://download.perseus-tv.app"><b>Visit the site →</b></a></p>
-    </td>
-  </tr>
-</table>
+**10K+ Google Play downloads** · [Google Play](https://play.google.com/store/apps/details?id=com.perseus.tv.app) · [App Store](https://apps.apple.com/us/app/perseustv/id6751275926) · **[Engineering case study →](https://minnkhantthu.up.railway.app/work/perseus)**
 
-> Beyond streaming, I've shipped **e-commerce and rider apps**, an **RFID/BLE inventory tool**, multilingual experiences across **EN / MM / ZH / TH**, and internal admin tools—work shaped by real releases, performance constraints, and edge cases.
+### EZ RFID Check — software that connects to physical devices
 
-## 🧰 Toolbelt
+A Flutter inventory workflow connecting compatible Bluetooth RFID scanners to live stock checks, review screens, and exportable reports. My work includes BLE integration, device-state feedback, Riverpod state management, and Dio/Retrofit API integration.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react,vite,tailwind,js,ts,nodejs,nestjs,express,firebase,postgres,prisma,mongodb,redis,docker,git,github,postman&amp;perline=10&amp;theme=dark" alt="Flutter, Dart, Kotlin, React, Vite, Tailwind CSS, JavaScript, TypeScript, Node.js, NestJS, Express, Firebase, PostgreSQL, Prisma, MongoDB, Redis, Docker, Git, GitHub, and Postman" />
-</p>
+**500+ Google Play downloads** · [Google Play — Easy RFID Check App](https://play.google.com/store/apps/details?id=com.easy.rfid.check.app) · [App Store](https://apps.apple.com/us/app/ez-rfid-check/id6755007214) · [Portfolio overview](https://minnkhantthu.up.railway.app/#rfid)
 
-<p align="center">
-  <code>Flutter</code> · <code>Dart</code> · <code>React</code> · <code>TypeScript</code> · <code>Node.js</code> · <code>Express</code><br />
-  <code>PostgreSQL</code> · <code>Prisma</code> · <code>MongoDB</code> · <code>Redis</code> · <code>Railway</code> · <code>GitHub Actions</code>
-</p>
+### Studinote — language learning on mobile
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Delivery-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway deployment" />
-  <img src="https://img.shields.io/badge/Automation-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions automation" />
-  <img src="https://img.shields.io/badge/Localization-EN_MM_ZH_TH-14B8A6?style=flat-square" alt="English, Burmese, Chinese, and Thai localization" />
-</p>
+A Flutter learning app bringing generated study notes, vocabulary, conversation practice, and dictionary features together. My contributions include learning screens, note and dictionary APIs, authentication, audio features, and mobile release workflows.
 
-## 🎓 Education & credentials
+[Google Play](https://play.google.com/store/apps/details?id=com.studinote.mobile) · **[App Store](https://apps.apple.com/us/app/studinote/id6786397951)** · [Portfolio overview](https://minnkhantthu.up.railway.app/#studinote)
 
-| Track | Qualification | Status |
-| :-- | :-- | :-- |
-| **Computing** | **BSc (Hons), Computing** · University of Greenwich | `IN PROGRESS` · Dec 2025–Dec 2026 |
-| **English** | **BA, English Literature (British & Commonwealth)** · Chandrakasem Rajabhat University | `IN PROGRESS` · Jul 2026–Present |
-| **Software Engineering** | **B.C.Sc. studies** · University of Computer Studies, Yangon | Studied through Semester 7 |
-| **Android Development** | [**Meta Android Developer**](https://www.coursera.org/account/accomplishments/professional-cert/Y58HQNUJE3WX) · Coursera | Issued Oct 2024 |
+<sub>Store download milestones checked on 23 September 2026. These are Google Play download bands, not active-user counts. Store listings may use a client's or publisher's account; the descriptions above identify my engineering contributions.</sub>
 
-## ⚡ Build mode
+### More freelance projects
 
-<p align="center">
-  <img src="./assets/build-mode.svg" alt="Minn's current engineering focus: Flutter, React, Node.js, Railway, and product delivery" width="100%" />
-</p>
+- **Shwemi:** Flutter gold-retail administration, including daily prices, buyback pricing, and QR scanning.
+- **Live Translator:** Burmese–Thai speech translation across audio capture, translation requests, playback, and transcript export, with Flutter, a web experience, and native iOS audio integration.
+- **HR & Workforce Management:** local-first personnel records, attendance, leave approvals, role-based access, reporting, and Windows delivery using React, NestJS, TypeORM, and SQLite.
 
-## 🐍 Contribution trail
+[Explore more project details →](https://minnkhantthu.up.railway.app/)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/contribution-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/contribution-snake-light.svg" />
-    <img src="./assets/generated/contribution-snake-light.svg" alt="Animated snake moving through Minn's GitHub contribution grid" width="100%" />
-  </picture>
-</p>
+## Professional experience
 
-<p align="center">
-  <sub>Regenerated automatically by GitHub Actions so the trail keeps moving.</sub>
-</p>
+**Senior Flutter Developer · Joy Groups International**<br />
+April 2024 – Present · Bangkok / Remote
 
-## 🤝 Let's build something people enjoy using
+Selected contributions within the JOY team, separate from my freelance work:
 
-<p align="center">
-  <b>Good software should feel simple—even when the system behind it isn't.</b><br />
-  Building a mobile product or an API-heavy workflow? Let's connect.
-</p>
+- **DMS Rider:** request and payment screens, API-backed dashboards, notifications, localisation, and location-socket lifecycle improvements.
+- **ETMS Driver:** Figma-to-Flutter driver and passenger flows, boarding interactions, camera/QR integration, and multilingual interfaces.
+- **One Stock AI Merchant:** frontend prototype work on stock-record workflows, image selection, responsive forms, and chatbot UI components.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/minn-khant-thu/"><img src="https://img.shields.io/badge/Start_a_conversation-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Start a conversation on LinkedIn" /></a>
-  <a href="mailto:minkhantthu1@ucsy.edu.mm"><img src="https://img.shields.io/badge/Send_an_email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Minn an email" /></a>
-</p>
+**Flutter Developer · Lastoenjoy Co., Ltd.**<br />
+November 2022 – April 2024 · Mandalay / Remote
 
-<p align="center">
-  <sub>From pixels to APIs · Built with curiosity in Bangkok</sub>
-</p>
+**Flutter & Node.js Developer · Freelance**<br />
+December 2021 – Present · Remote, alongside employment
+
+Some professional repositories are private. My [portfolio](https://minnkhantthu.up.railway.app/#experience) explains my contributions without sharing client source code or internal records.
+
+## Technical toolkit
+
+| Area | Technologies I work with |
+| :-- | :-- |
+| Mobile | Dart, Flutter, Riverpod, BLoC, Android / iOS release workflows |
+| Web & APIs | React, TypeScript, Node.js, Express, NestJS |
+| Integrations | BLE / RFID, Firebase / FCM, Dio / Retrofit, HLS media delivery |
+| Data | **PostgreSQL**, MongoDB, SQLite, TypeORM |
+| Cloud & delivery | **AWS S3, CloudFront, SES**, Railway, Git, GitHub Actions |
+
+**AI-assisted, engineer-owned.** I use Codex to accelerate implementation planning, debugging, refactoring, and test development, while owning architecture decisions, reviewing code, and validating builds and runtime behaviour.
+
+## Education & credentials
+
+- **BSc (Hons) Computing — University of Greenwich**<br />
+  In progress · **Expected January 2027**
+- **Computer Science studies — University of Computer Studies, Yangon (UCSY)**<br />
+  Studied through Semester 7
+- **[Meta Android Developer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/Y58HQNUJE3WX)**<br />
+  Coursera · October 2024
+
+## Let's connect
+
+For mobile engineering opportunities, freelance enquiries, or a closer look at my work:
+
+**[Portfolio](https://minnkhantthu.up.railway.app/)** · **[LinkedIn](https://www.linkedin.com/in/minn-khant-thu/)** · **[minnkhantthu.ucsy@gmail.com](mailto:minnkhantthu.ucsy@gmail.com)**
+
+The [public CV](https://minnkhantthu.up.railway.app/cv/Minn_Khant_Thu_CV_NZ_Senior_Mobile_Engineer_Public.pdf) is available directly; a recruiter copy with additional contact details is available on request.
+
+<details>
+  <summary>Contribution trail</summary>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/contribution-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/generated/contribution-snake-light.svg" />
+      <img src="./assets/generated/contribution-snake-light.svg" alt="Animated snake moving through Minn's GitHub contribution grid" width="100%" />
+    </picture>
+  </p>
+  <p align="center"><sub>Regenerated automatically by GitHub Actions.</sub></p>
+</details>
