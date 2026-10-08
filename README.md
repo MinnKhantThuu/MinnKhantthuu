@@ -65,12 +65,6 @@ I built GlideMouse to make everyday mouse actions easier to set up. Assign butto
 **Swift / SwiftUI · macOS 14+ · Apple Silicon & Intel · Open source**<br />
 Available in English, Myanmar and Simplified Chinese.
 
-<p>
-  <a href="https://minnkhantthuu.github.io/GlideMouse/">
-    <img src="./assets/glidemouse/buttons-0.4.2.png" alt="GlideMouse button settings with desktop switching, Mission Control and individual action selectors" width="100%" />
-  </a>
-</p>
-
 [**Website →**](https://minnkhantthuu.github.io/GlideMouse/) · [**Download for Mac**](https://github.com/MinnKhantThuu/GlideMouse/releases/latest) · [How to use](https://minnkhantthuu.github.io/GlideMouse/tutorials.html#en-buttons) · [Source on GitHub](https://github.com/MinnKhantThuu/GlideMouse)
 
 ## 📡 Selected freelance work
