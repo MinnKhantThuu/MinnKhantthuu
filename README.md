@@ -56,6 +56,23 @@
 | `DEC 2021 → NOW` | **Flutter & Node.js Developer** | Freelance · Remote |
 | `NOV 2022 → APR 2024` | **Flutter Developer** | Lastoenjoy Co., Ltd. · Mandalay / Remote |
 
+## 🖱️ Independent product
+
+### [GlideMouse](https://minnkhantthuu.github.io/GlideMouse/) · A native macOS mouse utility
+
+I built GlideMouse to make everyday mouse actions easier to set up. Assign buttons to switch desktops, open Mission Control or run keyboard shortcuts. Adjust wheel scrolling and use different actions in individual apps.
+
+**Swift / SwiftUI · macOS 14+ · Apple Silicon & Intel · Open source**<br />
+Available in English, Myanmar and Simplified Chinese.
+
+<p>
+  <a href="https://minnkhantthuu.github.io/GlideMouse/">
+    <img src="./assets/glidemouse/buttons-0.4.2.png" alt="GlideMouse button settings with desktop switching, Mission Control and individual action selectors" width="100%" />
+  </a>
+</p>
+
+[**Website →**](https://minnkhantthuu.github.io/GlideMouse/) · [**Download for Mac**](https://github.com/MinnKhantThuu/GlideMouse/releases/latest) · [How to use](https://minnkhantthuu.github.io/GlideMouse/tutorials.html#en-buttons) · [Source on GitHub](https://github.com/MinnKhantThuu/GlideMouse)
+
 ## 📡 Selected freelance work
 
 <table>
